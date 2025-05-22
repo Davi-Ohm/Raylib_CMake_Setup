@@ -19,28 +19,21 @@ Follow this steps
     1. create the CMakeCache.txt file in the build folder
     for this we will use 2 commands
     
-    ```
-    cd build 
-    ```
+    `cd build `
     
     and then 
 
-    ```
-    cmake ..
-    ```
+    `cmake ..`
 
     the cmake will try to create the cache file
 
     after creating it go back to the main directory of the project using the command
-    ```
-    cd ..
-    ```
+
+    `cd ..`
 
     2. Compile the project using this command
     
-    ```
-    cmake --build build
-    ```
+    `cmake --build build`
 
 For the rest of the project assuming you did everthing correct for compiling any amount of times you will only nedd the second command
 
