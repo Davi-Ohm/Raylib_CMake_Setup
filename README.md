@@ -19,7 +19,9 @@ Follow this steps
     1. create the CMakeCache.txt file in the build folder
     for this we will use 2 commands
     
-    `cd build `
+    `
+    $ cd build
+    `
     
     and then 
 
