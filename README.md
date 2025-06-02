@@ -19,13 +19,15 @@ Follow this steps
     1. create the CMakeCache.txt file in the build folder
     for this we will use 2 commands
     
-    `
+    ```
     $ cd build
-    `
+    ```
     
     and then 
 
-    `cmake ..`
+    ```
+    cmake ..
+    ```
 
     the cmake will try to create the cache file
 
